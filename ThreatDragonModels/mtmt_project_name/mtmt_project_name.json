@@ -14,9 +14,9 @@
     ],
     "diagrams": [
       {
-        "diagramType": "OTM",
+        "diagramType": "STRIDE",
         "id": 0,
-        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "title": "MTMT Diagram Representation",
         "version": "2.6.2",
         "cells": [
@@ -1233,10 +1233,11 @@
             "width": 2000,
             "height": 2000
           }
-        }
+        },
+        "placeholder": "New STRIDE diagram description"
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "",
     "threatTop": 42
   },
